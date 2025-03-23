@@ -13,7 +13,7 @@ In this project, sales and shipping data were analyzed using Power BI to uncover
 **Creating an Interactive Sales Dashboard with Tableau**
 This project involved utilizing Tableau to create an interactive dashboard for a fictitious superstore's sales data. The objective was to derive meaningful insights to assist management in decision-making. The analysis revealed that September and December were the highest sales months, 'Office Supplies' was the top-selling category, and California recorded the highest sales among locations. Additionally, a significant sales surge was observed in the fourth quarter. These insights can help in understanding sales trends and guiding business strategies. [Read more](https://medium.com/@bhowmik.shimulkumar/i-am-someone-who-loves-to-work-with-data-d3326ed98944)
 
-- **Tableau Workbook**: [`dashboard.twbx`](./dashboard.twbx)  
+- **Tableau Workbook**: [`dashboard.twb`](./Dashboard1.twb)  
 - **PDF Version**: [`report.pdf`](./report.pdf) (Adding soon...)  
 
 ## 🔗 Live Report Links  
