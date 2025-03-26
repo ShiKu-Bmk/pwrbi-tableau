@@ -1,4 +1,20 @@
-# pwrbi-tableau
+# Shimul Bhowmik's Data Analysis Portfolio
+
+## About Me
+I hold a **BBA in Accounting & Information Systems** from the **University of Dhaka (2019-2023)**. I have a passion for data analysis and have worked on several projects utilizing tools like **Power BI, Tableau, Excel**. My expertise includes **data visualization, business intelligence, and financial analysis**.
+
+## 📊 Projects
+
+### 1️⃣ [Sales and Shipping Data Analysis](./Projects/Sales-Analysis)
+   - **Objective**: Analyzed sales and shipping trends to optimize logistics.
+   - **Tools Used**: Power BI, Excel.
+   - **Key Insights**: Identified top-performing regions and seasonal trends.
+
+### 2️⃣ [Financial Data Visualization](./Projects/Financial-Dashboard)
+   - **Objective**: Built an interactive financial dashboard.
+   - **Tools Used**: Tableau, Excel.
+   - **Key Insights**: Provided a visual summary of revenue and expenses over time.
+
 # Power BI & Tableau Reports  
 
 ## 📊 Overview  
@@ -38,6 +54,10 @@ This report includes:
 
 ## 📝 Notes  
 - Ensure you have **Power BI Desktop** or **Tableau Desktop** installed.  
-- If the reports require a database connection, update the **data source** accordingly.  
-
+- If the reports require a database connection, update the **data source** accordingly.
+- 
+## 📞 Contact Me
+- **LinkedIn**: [Shimul Bhowmik](https://www.linkedin.com/in/shimul-bhowmik/)
+- **GitHub**: [Shimul Kumar Bhowmik](https://github.com/ShiKu-Bmk))
+- **Email**: bhowmik.shimulkumar@yahoo.com
 ---
