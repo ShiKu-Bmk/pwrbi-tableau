@@ -58,6 +58,6 @@ This report includes:
 - 
 ## 📞 Contact Me
 - **LinkedIn**: [Shimul Bhowmik](https://www.linkedin.com/in/shimul-bhowmik/)
-- **GitHub**: [Shimul Kumar Bhowmik](https://github.com/ShiKu-Bmk))
+- **GitHub**: [Shimul Kumar Bhowmik](https://github.com/ShiKu-Bmk)
 - **Email**: bhowmik.shimulkumar@yahoo.com
 ---
