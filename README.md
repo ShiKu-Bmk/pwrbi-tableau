@@ -57,7 +57,7 @@ This report includes:
 - If the reports require a database connection, update the **data source** accordingly.
 - 
 ## 📞 Contact Me
-- **LinkedIn**: [Shimul Bhowmik](https://www.linkedin.com/in/shimul-bhowmik/)
+- **LinkedIn**: [Shimul Kumar Bhowmik](https://www.linkedin.com/in/shimul-bhowmik/)
 - **GitHub**: [Shimul Kumar Bhowmik](https://github.com/ShiKu-Bmk)
 - **Email**: bhowmik.shimulkumar@yahoo.com
 ---
